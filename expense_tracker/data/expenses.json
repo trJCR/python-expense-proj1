@@ -1,0 +1,23 @@
+[
+  {
+    "date": "2021-01-01",
+    "category": "Food",
+    "name": "New Year's Dinner",
+    "amount": "125.0",
+    "payment_method": "Credit"
+  },
+  {
+    "date": "2022-11-10",
+    "category": "Clothes",
+    "name": "Zumiez",
+    "amount": "109.65",
+    "payment_method": "Debit"
+  },
+  {
+    "date": "2025-10-30",
+    "category": "Entertainment",
+    "name": "Concert Tickets",
+    "amount": "225.67",
+    "payment_method": "Cash"
+  }
+]
